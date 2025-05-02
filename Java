@@ -1,0 +1,54 @@
+Multithreading: 
+ • Must understand Object Level vs Class Level Locking 
+ • Must understand the difference among sleep, wait, yield, join, etc. 
+ • Must understand volatile keyword and its usage 
+ • The focus should be its difference with synchronization and atomic classes 
+ • Must understand alternate strategies to synchronized keyword 
+ • Must understand Executors Framework, ThreadPool etc 
+ • Synchronizers: Semaphores, Cyclicbarrier, Countdownlatches 
+ • Exception handling, deadlock
+ Spring Core:
+ - Concepts of DI , and , IOC in Spring.
+ - Application Context vs BeanFactory.
+ 
+Spring Boot:
+ - Profiling/profile management in spring boot app
+ - How spring boot application works internally.
+ Java8: 
+ All features of Java v1.8 ( Streams, terminal and intermediate operations in Stream,
+ Diff between map, multimap, and flatmap operations.
+ Lambda expressions internal mechanism
+ Functional interface concept.
+ Internal working of HashMap.
+ Internal working of ConcurrentHashMap.
+ Internal working of HashSet.
+ Contract between Hashcode, and equals.
+ Why do we override equals and hashcode ?
+ Spring – understand spring and are able to develop in Spring
+ Difference between volatile and atomic
+ Difference between where and having 
+ Inner class
+ Static inner class 
+ Builder pattern 
+ Immutable class 
+ Thread sefty 
+ Transaction levels 
+ Reentrant lock 
+ Observable pattern
+ 
+oops concpts: 
+ • String, String Buffer, and StringBuilder. Difference between them and which is thread-safe. All methods of these classes such as indexOf, lastIndexof, intern 
+ • why String is primarily Immutable. 
+ • Comparable and comparator and one question on its implementation. 
+ • static method of hiding. 
+ • Inner classes example, reasons 
+ • Use of super under generic for inherited classes. 
+ • Collections 
+ • ArrayList v/s LinkedList 
+ • HashMap v/s TreeMap 
+ • HashMap v/s Concurrent HashMap vs Synchronized map(using Collection class utility) 
+ • Iterator vs ListIterator 
+ • Stacks, Queues, Trees, Graphs, etc 
+ • Should be well versed with common Searching and Sorting Algorithms 
+ • Should be able to think in terms of time complexity analysis
+ 
